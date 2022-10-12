@@ -1,0 +1,66 @@
+h1 {
+    color: red;
+}
+
+.navbar-brand img{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.bg-light {
+    background-color: blanchedalmond!important;
+}
+
+.promo {
+    width: 1915px;
+    height: 300px;
+    border: solid aqua;
+    background-color: aqua;
+}
+
+.materiel {
+    width: 1915px;
+    height: 1000px;
+    border: solid burlywood;
+    background-color: burlywood;
+}
+
+.contact {
+    background-image: url(./header.jpg);
+    width: 1915px;
+    height: 800px;
+    border: solid gray;
+    color: white;
+}
+
+.contact_div_title {
+    font-size: x-large;
+}
+
+.list {
+    float: left;
+    width: 40%;
+    font-size: x-large;
+    padding-left: 40px;
+}
+
+.list2 {
+    display: inline-block;
+    width: 35%;
+    font-size: x-large;
+}
+
+.list3 {
+    float: right;
+    width: 20%;
+    font-size: x-large;
+    padding-left: 50px;
+}
+
+.badge {
+    font-size: x-large;
+}
